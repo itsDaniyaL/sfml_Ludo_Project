@@ -1,6 +1,6 @@
 ﻿  LudoSFML.cpp
-D:\All_My_Uni_Work\Ludo\F_18F-0298_FinalProject\Sfml_Project\Sfml_Project\LudoSFML.cpp(117,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\All_My_Uni_Work\Ludo\F_18F-0298_FinalProject\Sfml_Project\Sfml_Project\LudoSFML.cpp(705,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\All_My_Uni_Work\Ludo\F_18F-0298_FinalProject\sfml_Ludo_Project\Sfml_Project\LudoSFML.cpp(117,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\All_My_Uni_Work\Ludo\F_18F-0298_FinalProject\sfml_Ludo_Project\Sfml_Project\LudoSFML.cpp(705,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
           with
           [
               T=int
@@ -9,7 +9,7 @@ D:\All_My_Uni_Work\Ludo\F_18F-0298_FinalProject\Sfml_Project\Sfml_Project\LudoSF
           [
               T=float
           ]
-D:\All_My_Uni_Work\Ludo\F_18F-0298_FinalProject\Sfml_Project\Sfml_Project\LudoSFML.cpp(705,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\All_My_Uni_Work\Ludo\F_18F-0298_FinalProject\sfml_Ludo_Project\Sfml_Project\LudoSFML.cpp(705,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
           with
           [
               T=int
@@ -18,5 +18,5 @@ D:\All_My_Uni_Work\Ludo\F_18F-0298_FinalProject\Sfml_Project\Sfml_Project\LudoSF
           [
               T=float
           ]
-D:\All_My_Uni_Work\Ludo\F_18F-0298_FinalProject\Sfml_Project\Sfml_Project\LudoSFML.cpp(572,6): warning C4101: 'num': unreferenced local variable
-  Sfml_Project.vcxproj -> D:\All_My_Uni_Work\Ludo\F_18F-0298_FinalProject\Sfml_Project\Debug\Sfml_Project.exe
+D:\All_My_Uni_Work\Ludo\F_18F-0298_FinalProject\sfml_Ludo_Project\Sfml_Project\LudoSFML.cpp(572,6): warning C4101: 'num': unreferenced local variable
+  Sfml_Project.vcxproj -> D:\All_My_Uni_Work\Ludo\F_18F-0298_FinalProject\sfml_Ludo_Project\Debug\Sfml_Project.exe
