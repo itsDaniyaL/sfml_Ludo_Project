@@ -219,7 +219,9 @@ void movePawn(int diceValue, bool& requiresPawnInput, Vector2f mousePosition) {
 	static bool yellowKill = false;
 	static bool checkRed = true;
 	static bool checkYellow = true;
+	//Checking which player is currently playing
 	if (playerTurn == 0) {
+		//Checking whether position of mouse is on the pawn while clicking it.
 		if (sRed1.getGlobalBounds().contains(mousePosition)) {
 			actionTaken = true;
 			if (diceValue == 6 && 
@@ -558,6 +560,7 @@ void movePawn(int diceValue, bool& requiresPawnInput, Vector2f mousePosition) {
 		}
 	}
 
+	//For debugging references
 	if (actionTaken) {
 		cout << "Dice value was for player" << diceValue << (playerTurn + 1)<<redKill<<"\t"<<yellowKill << endl;
 		requiresPawnInput = false;
